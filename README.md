@@ -48,4 +48,13 @@ If you would like to contribute to this project, please follow the steps below:
 - Push to the branch **(git push origin feature/new-feature).**
 - Create a pull request on GitHub.
 
+## Autors
+
+- Harold Humberto Alzate Ayala
+- Diana Carolina Hernandez
+- Guillermo Leon Duque 
+- Robert Michael González
+- Santiago Gutierrez
+- Estefanía Marín Vallejo
+
 Thanks for using this project! We hope it is useful for your eCommerce application. If you have any questions or comments, please feel free to open an issue or contact us.
