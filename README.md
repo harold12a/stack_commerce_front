@@ -23,6 +23,7 @@ The application uses a MongoDB database to store information about products, use
 Make sure you have Node.js and MongoDB installed on your system.
 
 # Clonar el Repositorio
+**https://github.com/harold12a/stack_commerce_front.git**
 
 ## Configure the Backend
 
